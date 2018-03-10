@@ -1,0 +1,44 @@
+{
+  "basics":{
+    "photo":"andrew.png",
+    "name":"Jonathan Prince",
+    "phoneno":"9000026229",
+    "email":"jonathandarla25@gmail.com",
+    "address":"Chirala,Prakasam,AP"
+
+  },
+  "education":[
+    {
+ "course":"B.tech(computer science and engineering )",
+ "institute":"CR REDDY ENGINEERING COLLEGE",
+ "data":["2015-2019","90%"]
+    },
+
+{
+  "course":"inter(MPC)",
+  "institute":"NRI college",
+  "data":["2013-2015","91%"]
+},
+{
+  "course":"SSC",
+  "institute":"St. Ann's school",
+  "data":["2006-2012"]
+
+}
+],
+"skills":[
+  {
+    "name":"languages",
+"data":["c","JAVA","php"]
+},
+{
+  "name":"WEB technologies",
+  "data":["HTML","CSS","php"]
+
+},
+  {
+    "name":"OS",
+    "data":["WINDOWS","LINUX","UNIX"]
+  }
+]
+}
